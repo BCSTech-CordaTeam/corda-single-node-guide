@@ -4,7 +4,7 @@ This guide is for explaining how to set up a new Corda node, using our Azure mar
 
 ## Required Setup
 
-Before using our solution, you need to have a bundle prepared which includes files used for configurations.
+Before using our solution, you need to have a bundle prepared which includes files used for configurations. Provide the bundle as an encrypted 7z or zip and during our offer you can provide us the password.
 
 ```
 bundle
